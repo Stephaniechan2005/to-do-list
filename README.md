@@ -1,5 +1,7 @@
 # To-do-list
 
+This repo is for the HW3 To-do-list build. The To-do-list build demonstrates the use of CSS cascade, selection, pesudo selector and other css layout techniques.
+
 ## Installation
 
 TODO: Describe the installation process
